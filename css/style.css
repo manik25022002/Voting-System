@@ -1,0 +1,240 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    /* font-family: 'Sacramento'; */
+    /* font-family: 'Montserrat', sans-serif;  */
+    /* font-family: 'Satisfy', cursive;  */
+    /* font-family: 'Moon Dance', cursive;  */
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
+
+#title {
+    background-color: rgb(104, 190, 251);
+    /* background-color: rgb(129, 200, 250); */
+    color: white;
+}
+
+.title-image {
+    width: 50%;
+    border-radius: 50%;
+    transform: rotate(15deg);
+    /* padding-left: 5%; */
+}
+
+.navbar {
+    padding: 4% 12%;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+/* .navbar-collapse{
+    right: 100px;
+} */
+.row {
+    padding: 4% 12%;
+}
+
+.title_heading {
+    font-size: bold;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.title-div {
+    padding: 4%;
+}
+
+#home {
+    background-color: rgb(125, 201, 255);
+}
+
+/* .home_div {
+    text-align: center;
+
+    position: absolute;
+    left: 120px;
+    top: 700px;
+} */
+
+.home_para {
+    background-color: white;
+    color: rgb(56, 155, 226);
+    text-align: center;
+    padding: 2% 20%;
+    padding-bottom: 0.5%;
+}
+
+.home_para_ques {
+    font-size: 3rem;
+    color: black;
+}
+
+.home_para_lines {
+    padding: 3% 0;
+    font-size: 1.5rem;
+}
+
+
+.lines {
+    padding: 2% 25%;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: white;
+
+}
+
+.carousel-inner {
+    text-align: center;
+}
+
+.home_img1 {
+    width: 21%;
+    border-radius: 40%;
+    padding: 30px;
+    /* transform: rotate(-10deg); */
+}
+
+.home_img2 {
+    width: 29.8%;
+    border-radius: 40%;
+    padding: 30px;
+}
+
+.home_img3 {
+    width: 38.7%;
+    border-radius: 40%;
+    padding: 30px;
+}
+
+
+
+/* section party */
+
+.partyheading {
+    color: black;
+
+
+}
+
+.card {
+    text-align: center;
+}
+
+.price-card {
+    padding: 10px;
+}
+
+.card_header {
+    background-color: rgb(104, 190, 251);
+    padding: 5px;
+    /* color: white; */
+    color: black;
+}
+
+.card_info {
+    padding: 12px 9px;
+    color: rgb(0, 149, 255);
+}
+
+a {
+    color: rgb(104, 190, 251);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.btn {
+    background-color: white;
+    padding: 5px;
+    margin: 6px;
+    margin-bottom: 10px;
+    border: 2px solid;
+    border-color: rgb(104, 190, 251);
+}
+
+.btn:hover {
+    border: 2px solid;
+    border-color: black;
+    background-color: rgb(0, 187, 255);
+}
+
+.congressimg {
+    width: 25%;
+    padding: 3px;
+}
+
+.bjpimg{
+    width: 25%;
+    padding: 3px;
+}
+.aapimg{
+    width: 25%;
+    padding: 3px;
+}
+.bspimg{
+    width: 25%;
+    padding: 3px;
+}
+/* section rules */
+#rules{
+    background-color: rgb(125, 201, 255);  
+    padding: 10px 0px;
+    /* text-align: center; */
+/* color: white; */
+}
+.rules_heading{
+    font-size: 3.6rem;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding: 6px 0px;
+}
+
+.list{
+    /* text-align: center; */
+    font-size: 1.5rem;
+    padding-left: 520px;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    color: white;
+}
+.rulespara{
+    font-size: 1.5rem;
+    color: rgb(0, 88, 160);
+    text-align: center;
+  
+}
+
+
+/* section contact */
+#contact{
+    text-align: center;
+    /* background-color: rgb(125, 201, 255); */
+    background-color:white;
+    /* color: white; */
+    color: black;
+    /* margin-bottom: 0px; */
+    padding-bottom: 0px;
+    padding-top: 30px;
+}
+.footer-icon{
+    padding: 5px 10px;
+    /* color: white; */
+    color: black;
+}
